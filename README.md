@@ -1,6 +1,8 @@
 # Tweets de los dos candidatos que lideran la encuesta en las elecciones presidenciales de Ecuado en el año 2021
 
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fyeux.com.mx%2FColumnaUniversitaria%2Ftwitter-en-la-politica%2F&psig=AOvVaw20jHq3Axc-h9iptABTecqR&ust=1612608309599000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCnoaLI0u4CFQAAAAAdAAAAABAD
+![Alt text](http://yeux.com.mx/ColumnaUniversitaria/wp-content/uploads/2014/11/tw-pol.jpg?raw=true)
+
+
 
 Datos obtenidos de 'Twitter' por medio de su **Twitter API**, estos datos estan relacionado con las elecciones presidenciales de Ecuador 2021. 
 Este repositorio cuenta con dos archivo en formato .csv de dos diferentes busquedas consultadas por medio de las palabra clave de su nombre y nombre de usuario
