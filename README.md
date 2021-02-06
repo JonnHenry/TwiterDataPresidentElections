@@ -7,7 +7,7 @@ Este repositorio cuenta con dos archivo en formato .csv de dos diferentes busque
   * El archivo Twitter_search_Arauz contiene los datos relacionados al candidato a presidente **Andrés Arauz**
   * El archivo Twitter_search_Lasso contiene los datos relacionados al candidato a presidente **Guillerno Lasso**
 
-Para ver una descripción de los dos ficheros ingrese en el archivo **dictionary**, donde se da una descripción detallada al significado de cada campo de los datos.
+Para ver una descripción de los dos ficheros ingrese en el archivo **dictionary**, donde se da una descripción detallada del significado de cada uno de los campos de los datos.
 
  * El número de instancias de datos del candidato Andrés Arauz es: 55915
  * El número de instancias de datos del candidato Guillerno Lasso es: 27117
