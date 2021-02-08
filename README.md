@@ -9,5 +9,5 @@ Este repositorio cuenta con dos archivo en formato .csv de dos diferentes busque
 
 Para ver una descripción de los dos ficheros ingrese en el archivo **dictionary**, donde se da una descripción detallada del significado de cada uno de los campos de los datos.
 
- * El número de instancias de datos del candidato Andrés Arauz es: 55915
- * El número de instancias de datos del candidato Guillerno Lasso es: 27117
+ * El número de instancias de datos del candidato Andrés Arauz es: 133339
+ * El número de instancias de datos del candidato Guillerno Lasso es: 104846
