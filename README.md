@@ -12,6 +12,6 @@ Para ver una descripción de los dos ficheros ingrese en el archivo **dictionary
  * El número de instancias de datos del candidato Andrés Arauz es: 133339
  * El número de instancias de datos del candidato Guillerno Lasso es: 55055
 
-Se ha recompilado Tweets después de las elecciones electorales entre 8/2/2021 a 13/2/2021
+Se ha recompilado Tweets después de las elecciones electorales entre 8/2/2021 y 13/2/2021
   *  El número de instancias de datos del candidato Andrés Arauz es: 81573
   * El número de instancias de datos del candidato Guillerno Lasso es: 73288
