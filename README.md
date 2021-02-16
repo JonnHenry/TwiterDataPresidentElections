@@ -6,12 +6,10 @@ Datos obtenidos de 'Twitter' por medio de su **Twitter API**, estos datos estan 
 Este repositorio cuenta con dos archivo en formato .csv de dos diferentes busquedas consultadas por medio de las palabra clave de su nombre y nombre de usuario
   * El archivo Twitter_search_Arauz contiene los datos relacionados al candidato a presidente **Andrés Arauz**
   * El archivo Twitter_search_Lasso contiene los datos relacionados al candidato a presidente **Guillerno Lasso**
+  
+Se ha recompilado Tweets antes y después de las elecciones electorales entre 24/1/2021 a 6/2/2021 y 8/2/2021 a 13/2/2021
 
 Para ver una descripción de los dos ficheros ingrese en el archivo **dictionary**, donde se da una descripción detallada del significado de cada uno de los campos de los datos.
 
- * El número de instancias de datos del candidato Andrés Arauz es: 133339
- * El número de instancias de datos del candidato Guillerno Lasso es: 55055
-
-Se ha recompilado Tweets después de las elecciones electorales entre 8/2/2021 y 13/2/2021
-  *  El número de instancias de datos del candidato Andrés Arauz es: 81573
-  * El número de instancias de datos del candidato Guillerno Lasso es: 73288
+ * El número de instancias de datos del candidato Andrés Arauz es: 202320
+ * El número de instancias de datos del candidato Guillerno Lasso es: 124069
